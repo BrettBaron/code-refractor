@@ -26,5 +26,5 @@ This project is for training purposes.
  https://brettbaron.github.io/code-refractor/
 
  ## Sample
- .assets\images\Horiseon.PNG
+![alt text](assets/images/Horiseon.PNG)
 
