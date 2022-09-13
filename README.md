@@ -24,4 +24,7 @@ This project is for training purposes.
 ## Link
 
  https://brettbaron.github.io/code-refractor/
+
+ ## Sample
+ C:\Users\brett\workspace\code-refractor\assets\images\Horiseon.PNG
  
